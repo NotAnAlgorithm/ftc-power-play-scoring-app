@@ -1,16 +1,8 @@
-# ftc_scoring_app
+# ftc-power-play-scoring-app
 
 Scoring app for the FIRST Tech Challenge Power Play season, made by FTC team 12791 Iterative Intentions.
 
-## Getting Started
+## New to Flutter?
 
-This project is a starting point for a Flutter application.
+If you're new to Flutter, look at [Getting Started with Flutter](https://docs.flutter.dev/get-started) to get started. If you need help, the [online documentation](https://docs.flutter.dev) has everything you need. Stack Overflow is also a great option if you're stuck ;).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
